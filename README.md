@@ -26,6 +26,9 @@ The database ensures data normalization, integrity, and easy access to important
 - The clinician enters observations or diagnoses for the child.
 = All data is normalized, eliminating redundancy and maintaining relational integrity.
 
+## How It runs
+- Connect to an api on the front end
+
 
 ## ER DIAGRAM
 - https://drive.google.com/file/d/11czxSCjw-oxeGdAczJRiKNdkybmfbGMp/view?usp=sharing
